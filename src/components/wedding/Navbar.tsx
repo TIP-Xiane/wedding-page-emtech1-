@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { Menu, X } from "lucide-react";
+import { Menu, X, Home } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 
 const navItems = [
@@ -66,16 +66,29 @@ const Navbar = () => {
           ))}
         </ul>
 
-        {/* Mobile toggle */}
-        <button
-          type="button"
-          onClick={() => setIsOpen(!isOpen)}
-          className="md:hidden rounded-lg border border-border/50 bg-background p-2 text-foreground shadow-sm hover:border-accent/60 transition-colors"
-          aria-label="Toggle menu"
-          aria-expanded={isOpen}
-        >
-          {isOpen ? <X size={24} /> : <Menu size={24} />}
-        </button>
+        <div className="flex items-center gap-2">
+          {/* Return to landing page icon */}
+          <a
+            href="https://emtech-landing-fawn.vercel.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hidden md:flex items-center justify-center rounded-lg border border-border/50 bg-background p-2 text-foreground shadow-sm hover:border-accent/60 transition-colors"
+            aria-label="Return to landing page"
+          >
+            <Home size={20} />
+          </a>
+
+          {/* Mobile toggle */}
+          <button
+            type="button"
+            onClick={() => setIsOpen(!isOpen)}
+            className="md:hidden rounded-lg border border-border/50 bg-background p-2 text-foreground shadow-sm hover:border-accent/60 transition-colors"
+            aria-label="Toggle menu"
+            aria-expanded={isOpen}
+          >
+            {isOpen ? <X size={24} /> : <Menu size={24} />}
+          </button>
+        </div>
       </div>
 
       <AnimatePresence>
