@@ -9,7 +9,7 @@ const storyChapters = [
     image: story1,
     title: "Where It All Began",
     date: "March 2019",
-    text: "It was a quiet Sunday afternoon at a friend's garden gathering when Romeo first noticed Juliet across a sea of blossoming camellias. She was laughing — the kind of laughter that makes the world pause. He walked over, offered her a cup of warm tea, and from that moment, their story was written in the stars.",
+    text: "It was during a weekend nature trip with friends, out in the open fields with the mountains standing tall in the distance. Romeo, the easygoing and nonchalant guy, was simply enjoying the laughter and carefree vibe of the day. But when Juliet suddenly stumbled on the trail, everything changed in an instant. Without hesitation, he rushed to her side and carried her on his back, the two of them framed by the golden sunset. That moment — simple yet unforgettable — revealed how love can turn even the most laid-back soul into someone ready to protect and care. Minsan, sa isang hakbang na alalay, doon mo makikita kung gaano ka agad handang magmahal."
   },
   {
     image: story2,
@@ -20,14 +20,14 @@ const storyChapters = [
   {
     image: story3,
     title: "The Promise",
-    date: "February 2025",
-    text: "On a golden evening by the shore, with the sun painting the sky in hues of amber and rose, Romeo knelt before Juliet. With trembling hands and a heart full of devotion, he asked her the question that would change their lives forever. Through tears of joy, she whispered the sweetest 'yes' the wind had ever carried.",
+    date: "February 2023",
+    text: "On a golden evening by the shore, with the sun painting the sky in hues of amber and rose, Romeo knelt before Juliet. With trembling hands and a heart full of devotion, he asked her the question that would change their lives forever. Through tears of joy, she whispered the sweetest “yes” the wind had ever carried. 'Ang bawat 'oo' na mula sa puso, ay simula ng pangako na walang hanggan.' ",
   },
   {
     image: story4,
     title: "Forever Begins",
-    date: "December 2026",
-    text: "And now, before God and the people they love most, Romeo and Juliet will seal their covenant — a promise not just of love, but of patience, of grace, and of unwavering faith in one another. This is not the end of their story; it is only the most beautiful beginning.",
+    date: "April 2026",
+    text:"And now, before God and the people they love most, Romeo and Juliet will seal their covenant — a promise not just of love, but of patience, of grace, and of unwavering faith in one another. This is not the end of their story; it is only the most beautiful beginning. 'Sa harap ng Diyos at ng lahat, ang pag-ibig na ito ay magiging walang hanggan. ' "  ,
   },
 ];
 
