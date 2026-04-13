@@ -115,7 +115,7 @@ const ProgrammeSection = () => {
           className="mb-16"
         >
           <h3 className="font-display text-2xl text-wedding-charcoal italic text-center mb-8 font-light">
-            Principal Sponsors · <span className="font-script text-wedding-gold text-2xl">Ninong & Ninang</span>
+            Principal Sponsors · <span className="font-script text-wedding-gold text-2xl">Ninong Crisostomo Ibarra & Ninang Maria Clara</span>
           </h3>
           <div className="grid sm:grid-cols-2 gap-x-12 gap-y-4 max-w-2xl mx-auto">
             {weddingParty.principalSponsors.map((pair, i) => (
