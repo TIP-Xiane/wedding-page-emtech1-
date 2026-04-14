@@ -12,7 +12,7 @@ const venues = [
     description: "A historic and sacred sanctuary where faith meets beauty — the perfect setting for an eternal vow.",
     image: cathedralImg,
     mapSrc:
-      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3861.2!2d120.9739!3d14.5916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397ca1b0c3e9c49%3A0x3a693e6f5f72e3d!2sMinor%20Basilica%20and%20Metropolitan%20Cathedral%20of%20the%20Immaculate%20Conception!5e0!3m2!1sen!2sph!4v1699000000000!5m2!1sen!2sph",
+      "https://www.google.com/maps/d/embed?mid=1TZ80A_ZVQtySTGldYXYvL7Hntco3ScY&hl=en&ehbc=2E312F",
   },
   {
     label: "Reception",
@@ -21,7 +21,7 @@ const venues = [
     description: "An enchanting courtyard adorned with timeless elegance — where the celebration of love continues under the stars.",
     image: patioImg,
     mapSrc:
-      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3861.2!2d120.9739!3d14.5916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397ca1b6e55e2d7%3A0x9e1b1e0a3e3d8e0!2sPatio%20Victoria!5e0!3m2!1sen!2sph!4v1699000000000!5m2!1sen!2sph",
+      "https://www.google.com/maps/d/embed?mid=1c0evt0g6UfrcmQLnG7pVEvOcTXxc7XI&hl=en&ehbc=2E312F",
   },
 ];
 
