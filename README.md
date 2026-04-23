@@ -1,3 +1,2 @@
-# Welcome to your Lovable project
+# Welcome to our Wedding page!
 
-TODO: Document your project here
